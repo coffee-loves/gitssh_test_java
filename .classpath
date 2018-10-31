@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/commons-compress-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/h2-1.3.176.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/jdom.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/java-unrar-0.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/CodeHomology/libs/javolution-5.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/workspace/DCProcessor/lib/jxl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
